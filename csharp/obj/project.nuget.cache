@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5GId3vw7Eo8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gabriel\\Downloads\\cadastro-veiculos\\cadastro-veiculos\\csharp\\CadastroVeiculos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\mysqlconnector\\2.3.7\\mysqlconnector.2.3.7.nupkg.sha512"
+  ],
+  "logs": []
+}
